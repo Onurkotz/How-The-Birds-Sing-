@@ -3,12 +3,23 @@
     "id": 1,
     "name": "Raven",
     "color": "Black",
-    "sound": "./sounds/ravensound.mp3"
+    "sound": "./sounds/ravensound.mp3",
+    "picture": "./birds/raven.jpg",
+    "function": "ravenPlay"
   },
   {
     "id": 2,
     "name": "Nightingale",
     "color": "Gray, Blue, Yellow, Red",
-    "sound": "./sounds/nightingalesound.mp3"
+    "sound": "./sounds/nightingalesound.mp3",
+    "picture": "./birds/nightingale.jpg",
+    "function": "nihgtingalePlay"
+  },{
+    "id": 3,
+    "name": "Raven",
+    "color": "Black",
+    "sound": "./sounds/ravensound.mp3",
+    "picture": "./birds/raven.jpg",
+    "function": "ravenPlay"
   }
 ]
