@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Raven",
+    "color": "Black",
+    "sound": "./sounds/ravensound.mp3"
+  },
+  {
+    "id": 2,
+    "name": "Nightingale",
+    "color": "Gray, Blue, Yellow, Red",
+    "sound": "./sounds/nightingalesound.mp3"
+  }
+]
