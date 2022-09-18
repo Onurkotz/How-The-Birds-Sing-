@@ -4,22 +4,34 @@
     "name": "Raven",
     "color": "Black",
     "sound": "./sounds/ravensound.mp3",
-    "picture": "./birds/raven.jpg",
-    "function": "ravenPlay"
+    "picture": "./birds/raven.jpg"
   },
   {
     "id": 2,
     "name": "Nightingale",
-    "color": "Gray, Blue, Yellow, Red",
+    "color": "Gray, Blue, Yellow, Red, Black",
     "sound": "./sounds/nightingalesound.mp3",
-    "picture": "./birds/nightingale.jpg",
-    "function": "nihgtingalePlay"
-  },{
+    "picture": "./birds/nightingale.jpg"
+  },
+  {
     "id": 3,
-    "name": "Raven",
-    "color": "Black",
-    "sound": "./sounds/ravensound.mp3",
-    "picture": "./birds/raven.jpg",
-    "function": "ravenPlay"
+    "name": "Rooster",
+    "color": "Gray,Green, Black, Red",
+    "sound": "./sounds/roostersound.mp3",
+    "picture": "./birds/rooster.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Goldfinch",
+    "color": "Golden, Black, Red",
+    "sound": "./sounds/goldfinch.mp3",
+    "picture": "./birds/goldfinch.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Desert Lark",
+    "color": "Green, Yellow",
+    "sound": "./sounds/goldfinch.mp3",
+    "picture": "./birds/desertlarkk.jpg"
   }
 ]

@@ -1,6 +1,7 @@
-html{
-    background-color:rgb(61, 61, 61)
-}.head {
+html {
+  background-color: rgb(61, 61, 61);
+}
+.head {
   font-size: 25px;
   width: 80px;
   margin: auto;
@@ -45,9 +46,7 @@ img {
   border-radius: 10px;
 }
 
-
-audio{
-
+audio {
   width: 100px;
   margin: 10px 100px;
 }
