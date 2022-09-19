@@ -9,29 +9,148 @@
   {
     "id": 2,
     "name": "Nightingale",
-    "color": "Gray, Blue, Yellow, Red, Black",
+    "color": "Gray, Brown, Yellow, Red, Black",
     "sound": "./sounds/nightingalesound.mp3",
     "picture": "./birds/nightingale.jpg"
   },
   {
     "id": 3,
     "name": "Rooster",
-    "color": "Gray,Green, Black, Red",
+    "color": "Gray, Green, Black, Red",
     "sound": "./sounds/roostersound.mp3",
     "picture": "./birds/rooster.jpg"
   },
   {
     "id": 4,
     "name": "Goldfinch",
-    "color": "Golden, Black, Red",
+    "color": "Golden, Black, Red, Brown, White",
     "sound": "./sounds/goldfinch.mp3",
     "picture": "./birds/goldfinch.jpg"
   },
   {
     "id": 5,
-    "name": "Desert Lark",
-    "color": "Green, Yellow",
-    "sound": "./sounds/goldfinch.mp3",
-    "picture": "./birds/desertlarkk.jpg"
+    "name": "Lark",
+    "color": "Gray, White, Brown",
+    "sound": "./sounds/larksound.mp3",
+    "picture": "./birds/lark.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shrike",
+    "color": "Red, White, Black",
+    "sound": "./sounds/shrikesound.mp3",
+    "picture": "./birds/shrike.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sparrow",
+    "color": "Gray, Brown, Black",
+    "sound": "./sounds/sparrowsound.mp3",
+    "picture": "./birds/sparrow.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tit",
+    "color": "Blue, Yellow, Black",
+    "sound": "./sounds/titsound.mp3",
+    "picture": "./birds/tit.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Starling",
+    "color": "Black, Green, Purple",
+    "sound": "./sounds/starlingsound.mp3",
+    "picture": "./birds/starling.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Seagull",
+    "color": "White, Black",
+    "sound": "./sounds/seagullsound.mp3",
+    "picture": "./birds/seagull.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Swallow",
+    "color": "White, Black, Brown",
+    "sound": "./sounds/swallowsound.mp3",
+    "picture": "./birds/swallow.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Swift",
+    "color": "Brown",
+    "sound": "./sounds/swiftsound.mp3",
+    "picture": "./birds/swift.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Parrot",
+    "color": "Blue, Yellow, Green, Red, White, Black",
+    "sound": "./sounds/parrotsound.mp3",
+    "picture": "./birds/parrot.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Lovebird",
+    "color": "Blue, Yellow, Green, Black, Red",
+    "sound": "./sounds/lovebirdsound.mp3",
+    "picture": "./birds/lovebird.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Eagle",
+    "color": "White, Black, Red",
+    "sound": "./sounds/eaglesound.mp3",
+    "picture": "./birds/eagle.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Owl",
+    "color": "Gray, Yellow, Green, Black, White",
+    "sound": "./sounds/owlsound.mp3",
+    "picture": "./birds/owl.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Hawk",
+    "color": "Brown",
+    "sound": "./sounds/hawksound.mp3",
+    "picture": "./birds/hawk.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Golden Oriole",
+    "color": "Yellow, Black",
+    "sound": "./sounds/goldenoriolesound.mp3",
+    "picture": "./birds/goldenoriole.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Cormorant",
+    "color": "Black, Gray, White",
+    "sound": "./sounds/cormorantsound.mp3",
+    "picture": "./birds/cormorant.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Duck",
+    "color": "White, Black, Green",
+    "sound": "./sounds/ducksound.mp3",
+    "picture": "./birds/duck.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Goose",
+    "color": "Gray, White",
+    "sound": "./sounds/goosesound.mp3",
+    "picture": "./birds/goose.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Quail",
+    "color": "Gray, Brown, Black",
+    "sound": "./sounds/quailsound.mp3",
+    "picture": "./birds/quail.jpg"
   }
 ]
