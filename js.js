@@ -9,7 +9,6 @@ fetch("./data.json")
       cardhead.appendChild(cardiv);
 
       var audio = new Audio(`${data[i].sound}`);
-      console.log(audio);
 
       cardiv.innerHTML = `<div class="card">
         <div class="picture"><img src=${data[i].picture} alt=${data[i].name} /></div>
