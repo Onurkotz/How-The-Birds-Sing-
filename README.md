@@ -1,4 +1,4 @@
-## HOW <i>the</i> <b>BIRDS</b> SING?
+## HOW <i>the</i> BIRDS SING?
 
 This is a preschool project. Children can learn the look and song of birds with it.
 
@@ -11,5 +11,5 @@ This is a preschool project. Children can learn the look and song of birds with 
 <hr>
 
 ```
-This projest has responsive design.
+This project has responsive design.
 ```
